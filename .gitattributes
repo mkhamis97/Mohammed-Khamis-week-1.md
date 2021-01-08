@@ -11,7 +11,7 @@
 
 ### Technology Stacks
 
-1. An SQL Database would be the most reliable because A credit card system needs reliability and transactional integrity more than any other feature and also due to its popularity, it will be the easiest and most accessible
+1. A mySQL Database would be the most reliable because A credit card system needs reliability and transactional integrity more than any other feature and also due to its popularity, it will be the easiest and most accessible
 2. Since we're looking for a portable software, then Linux would be the most effective because it can be used in multiple platforms such as PCs, mobile phones and tablets - which all process online payments. The most notable application being Amazon which uses Linux. An alternative would be Chrome OS, Andriod
 3. For IDE it would come down to preference between VSCode and Jetbrains, which both are good all-round and good productivity.
 4. Programming languages used in finance and payment gateways usually include Python, Java, C++ etc. Since in this example, Golang is the one used it would be better to stick with it.
@@ -28,7 +28,7 @@
 
 ### Technology Stacks
 
-1. A good suggestion would be Realm DB, which is known to be so much faster than SQL and since it is used on a mobile platform then it can be lightweight without much server requirement.
+1. A good suggestion would be Realm DB, which is known to be so much faster than mySQL and since it is used on a mobile platform then it can be lightweight without much server requirement.
 2. In this case, since we're dealing with a mobile application, it would narrow down to choice between Android or iOS because the end used would prefer an interface that is easy and well known 
 3. For IDEs it is straight forward as both Anroid and iOS have 1 official IDE- Android Studio and Xcode respectively.
 4. There are many choices when it comes to programming languages for mobile development applications. C++ or JavaScript would narrowly get the favour as they are both known for being much faster on both ends compared to Python and Kotlin
