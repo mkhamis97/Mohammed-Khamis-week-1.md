@@ -1,6 +1,52 @@
 
-## [Question 1](#Question_1)
+# Question 1
+
 ### Google Search Queries
 
-1. 
+1. APIs that incorporate Moneris payments with Golang
+2. Types of portable softwares
+3. Types of programming languages that integrate with payment gateways
+4. Programming softwares similar to Goland
+5. Similar payment service providers to Moneris
 
+### Technology Stacks
+
+1. An SQL Database would be the most reliable because A credit card system needs reliability and transactional integrity more than any other feature and also due to its popularity, it will be the easiest and most accessible
+2. Since we're looking for a portable software, then Linux would be the most effective because it can be used in multiple platforms such as PCs, mobile phones and tablets - which all process online payments. The most notable application being Amazon which uses Linux. An alternative would be Chrome OS, Andriod
+3. For IDE it would come down to preference between VSCode and Jetbrains, which both are good all-round and good productivity.
+4. Programming languages used in finance and payment gateways usually include Python, Java, C++ etc. Since in this example, Golang is the one used it would be better to stick with it.
+5. Few of the most used libraries in web development in general are Svelte JS, Polymer JS and React JS although Svelte JS is known to have a much faster loading speed and React JS being much easier to learn and use
+
+# Question 2
+
+### Google Search Queries
+
+1. Best mobile development programs that are large scale
+2. Best programs used in e-commerce
+3. Suitable programs for product management
+4. Easiest softwares to use
+
+### Technology Stacks
+
+1. A good suggestion would be Realm DB, which is known to be so much faster than SQL and since it is used on a mobile platform then it can be lightweight without much server requirement.
+2. In this case, since we're dealing with a mobile application, it would narrow down to choice between Android or iOS because the end used would prefer an interface that is easy and well known 
+3. For IDEs it is straight forward as both Anroid and iOS have 1 official IDE- Android Studio and Xcode respectively.
+4. There are many choices when it comes to programming languages for mobile development applications. C++ or JavaScript would narrowly get the favour as they are both known for being much faster on both ends compared to Python and Kotlin
+5. Gson is a Java library for android which is very straightforward and can come in handy. Hero, for iOS is a useful library for building good-looking and fluent view controller transitions, without a lot of effort.
+
+# Question 3
+
+### Google Search Queries
+
+1. Programs specialized in multiple different databases
+2. What is the best program for large scale
+3. How to handle roles in a software
+4. What is the type of programs used in membership organizations
+
+### Technology Stacks
+
+1. Similarly to the first question , SQL would be the best option because it is well known for its ability to handle complex and multiple data view 
+2. Since there is no need for a portable OS, linux would be a good solution
+3. As productivity is the goal in this software, VSCode and Jetbrains would be easily compatible with SQL
+4. C++ would be the best option as it is the best when it comes to large and unique databases
+5. Since SQL is the preferred database, the same libraries from question 1 can be used here as well
